@@ -1,4 +1,4 @@
-//base by DGXeon x Phantom
+up//base by DGXeon x Phantom
 //YouTube: @phantom-hacks01
 //Instagram: phantom-hacks01
 //Telegram: t.me/Hackerzone25
@@ -8,15 +8,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348108395270"
-global.ownername = "*Phantom+Hacker"
+global.ownernomer = "254725693306"
+global.ownername = "*Maxy"
 global.ytname = "YT: phantom-hacks01"
 global.socialm = ""
-global.location = "India, Mizoram, Aizawl"
+global.location = "Kenya, Kisumu, Nairobi"
 
-global.ownernumber = '2348108395270'  //creator number
-global.ownername = 'Phantom+Hacker' //owner name
-global.botname = 'xbug bot' //name of the bot
+global.ownernumber = '254725693306'  //creator number
+global.ownername = 'Neiman Marcus' //owner name
+global.botname = 'I_ROBOT' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By Phantom'
@@ -53,8 +53,8 @@ global.mess = {
     done: 'Done !',
     prem: 'This feature can be used by premium user only',
     admin: 'This feature can be used by admin only',
-    botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by owner only',
+    botAdmin: 'This feature can only be used when the Marcus is a group admin ',
+    owner: 'This feature can be used by Marcus only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
     wait: 'In process... ',    
